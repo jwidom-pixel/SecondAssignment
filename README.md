@@ -1,2 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+두 번째 과제입니다.
+간단한 전투 게임으로, 공격력이 랜덤하게 지정되고 세 번의 전투가 연속으로 진행됩니다.
+이번주는 이런 저런 개인 사정이 생겨 원하는 만큼 시간 들여 완성하지 못해 아쉽습니다.
+그래도 재밌었어요!
